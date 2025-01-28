@@ -10,7 +10,7 @@ The Bank Loan Dashboard is a comprehensive data visualization tool developed in 
 🛠️ **Key Features**
 
 ### **Risk Analysis**
-- **Good Loans vs. Bad Loans**:
+- **Performing Loans vs. Non Performing Loans**:
   - Metrics for fully paid/current loans versus charged-off loans (bad loans).
   - Includes KPIs like funded amounts, received payments, and loan percentages.
 
